@@ -23,4 +23,4 @@ Next.js, React, TypeScript, Tailwind CSS, Headless UI, Heroicons 和 Axios
 实现基本的客户端和服务器端错误处理
 
 7.未来改进计划：
-包括添加用户认证，聊天历史持久化，性能优化等等
+包括添加用户认证，聊天历史持久化，性能优化等
